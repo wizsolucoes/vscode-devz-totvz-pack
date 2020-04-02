@@ -1,0 +1,56 @@
+{
+    "name": "devz-totvz-pack",
+    "publisher": "WizSolucoes",
+    "displayName": "DevZ - Totvz Pack",
+    "description": "",
+    "version": "0.0.1",
+    "icon": "resources/logo-devz.png",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "galleryBanner": {
+        "color": "#FF9100",
+        "theme": "dark"
+    },
+    "keywords": [
+        "Wiz Soluções",
+        "Wiz",
+        "DevZ",
+        "ADVPL",
+        "Totvz"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wizsolucoes/vscode-devz-totvz-pack"
+    },
+    "homepage": "https://github.com/wizsolucoes/vscode-devz-totvz-pack/blob/master/README.md",
+    "extensionPack": [ 
+        "totvs.tds-vscode",
+        "vscode-icons-team.vscode-icons",
+        "totvs.tds-monitor",
+        "alefragnani.numbered-bookmarks",
+        "AlencarGabriel.protheusdoc-vscode",
+        "AndreOneti.advpl-formatter",
+        "robsonrosilva.advpl-sintaxe",
+        "totvs.protheus-dev-sandbox",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "ucavalcante.altitude-script-language",
+        "eamodio.gitlens",
+        "McCarter.start-git-bash",
+        "donjayamanne.githistory",
+        "abusaidm.html-snippets",
+        "Mikael.Angular-BeastCode",
+        "cyrilletuzi.angular-schematics",
+        "johnpapa.Angular2",
+        "ms-dotnettools.csharp",
+        "msjsdiag.debugger-for-chrome",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "ms-vscode.PowerShell",
+        "sdras.night-owl",
+        "PKief.material-icon-theme",
+        "dracula-theme.theme-dracula"
+    ]
+}
